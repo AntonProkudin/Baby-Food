@@ -1,0 +1,24 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Store.master.cs" 
+   Inherits="WebMarket.Pages.Store" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title>Детское питание</title>
+    <link rel="stylesheet" href="/Content/Style.css" />
+    <%: System.Web.Optimization.Scripts.Render("~/bundles/validation") %>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <div id="header">
+                <GS:cartsummary runat="server" />
+                <div class="title">Детское питание для вашего малыша</div>
+            </div>
+            <div>
+                <asp:ContentPlaceHolder ID="bodyContent" runat="server" />
+            </div>
+        </div>
+    </form>
+</body>

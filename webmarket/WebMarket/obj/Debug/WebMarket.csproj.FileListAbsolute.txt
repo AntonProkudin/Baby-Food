@@ -1,0 +1,284 @@
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\WebMarket.dll.config
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\WebMarket.dll
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\WebMarket.pdb
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\roslyn\csc.exe
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\roslyn\csc.exe.config
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\roslyn\csc.rsp
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\roslyn\csi.exe
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\roslyn\csi.exe.config
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\roslyn\csi.rsp
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\roslyn\Microsoft.Managed.Core.targets
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\roslyn\System.AppContext.dll
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\roslyn\System.Collections.Immutable.dll
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\roslyn\System.Console.dll
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\roslyn\System.Globalization.Calendars.dll
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\roslyn\System.IO.Compression.dll
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\roslyn\System.IO.FileSystem.dll
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\roslyn\System.Net.Http.dll
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\roslyn\System.Net.Sockets.dll
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\roslyn\System.Reflection.Metadata.dll
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\roslyn\System.ValueTuple.dll
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\roslyn\System.Xml.XmlDocument.dll
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\roslyn\System.Xml.XPath.dll
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\roslyn\vbc.exe
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\roslyn\vbc.exe.config
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\roslyn\vbc.rsp
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\roslyn\VBCSCompiler.exe
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\roslyn\VBCSCompiler.exe.config
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\EntityFramework.dll
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\EntityFramework.SqlServer.dll
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\EntityFramework.xml
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\EntityFramework.SqlServer.xml
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\obj\Debug\WebMarket.csproj.AssemblyReference.cache
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\obj\Debug\WebMarket.csproj.CoreCompileInputs.cache
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\obj\Debug\WebMarket.csproj.CopyComplete
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\obj\Debug\WebMarket.dll
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\obj\Debug\WebMarket.pdb
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\Antlr3.Runtime.dll
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\Microsoft.Web.Infrastructure.dll
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\Newtonsoft.Json.dll
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\System.Web.Optimization.dll
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\WebGrease.dll
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\Antlr3.Runtime.pdb
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\Newtonsoft.Json.xml
+C:\dev\OpenServer\domains\MVC\WebMarket\WebMarket\bin\System.Web.Optimization.xml
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\WebMarket.dll.config
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\WebMarket.dll
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\WebMarket.pdb
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\roslyn\csc.exe
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\roslyn\csc.exe.config
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\roslyn\csc.rsp
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\roslyn\csi.exe
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\roslyn\csi.exe.config
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\roslyn\csi.rsp
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\roslyn\System.AppContext.dll
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\roslyn\System.Console.dll
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\roslyn\System.IO.Compression.dll
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\roslyn\System.Net.Http.dll
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\roslyn\System.Net.Sockets.dll
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\roslyn\System.ValueTuple.dll
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\roslyn\System.Xml.XPath.dll
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\roslyn\vbc.exe
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\roslyn\vbc.exe.config
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\roslyn\vbc.rsp
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\roslyn\VBCSCompiler.exe
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\Antlr3.Runtime.dll
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\EntityFramework.dll
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\EntityFramework.SqlServer.dll
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\Newtonsoft.Json.dll
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\System.Web.Optimization.dll
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\WebGrease.dll
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\Antlr3.Runtime.pdb
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\EntityFramework.xml
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\EntityFramework.SqlServer.xml
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\Newtonsoft.Json.xml
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\System.Web.Optimization.xml
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\obj\Debug\WebMarket.csproj.AssemblyReference.cache
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\obj\Debug\WebMarket.csproj.CoreCompileInputs.cache
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\obj\Debug\WebMarket.csproj.CopyComplete
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\obj\Debug\WebMarket.dll
+C:\Users\kautd\OneDrive\Рабочий стол\WebMarket\WebMarket\obj\Debug\WebMarket.pdb
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\WebMarket.dll.config
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\WebMarket.dll
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\WebMarket.pdb
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\roslyn\csc.exe
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\roslyn\csc.exe.config
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\roslyn\csc.rsp
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\roslyn\csi.exe
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\roslyn\csi.exe.config
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\roslyn\csi.rsp
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\roslyn\System.AppContext.dll
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\roslyn\System.Console.dll
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\roslyn\System.IO.Compression.dll
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\roslyn\System.Net.Http.dll
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\roslyn\System.Net.Sockets.dll
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\roslyn\System.ValueTuple.dll
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\roslyn\System.Xml.XPath.dll
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\roslyn\vbc.exe
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\roslyn\vbc.exe.config
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\roslyn\vbc.rsp
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\roslyn\VBCSCompiler.exe
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\Antlr3.Runtime.dll
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\EntityFramework.dll
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\EntityFramework.SqlServer.dll
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\Newtonsoft.Json.dll
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\System.Web.Optimization.dll
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\WebGrease.dll
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\Antlr3.Runtime.pdb
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\EntityFramework.xml
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\EntityFramework.SqlServer.xml
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\Newtonsoft.Json.xml
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\System.Web.Optimization.xml
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\obj\Debug\WebMarket.csproj.AssemblyReference.cache
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\obj\Debug\WebMarket.csproj.CoreCompileInputs.cache
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\obj\Debug\WebMarket.csproj.CopyComplete
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\obj\Debug\WebMarket.dll
+C:\Users\alexm\Downloads\webmarket-last\webmarket\WebMarket\obj\Debug\WebMarket.pdb
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\WebMarket.dll.config
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\WebMarket.dll
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\WebMarket.pdb
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\roslyn\csc.exe
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\roslyn\csc.exe.config
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\roslyn\csc.rsp
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\roslyn\csi.exe
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\roslyn\csi.exe.config
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\roslyn\csi.rsp
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\roslyn\System.AppContext.dll
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\roslyn\System.Console.dll
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\roslyn\System.IO.Compression.dll
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\roslyn\System.Net.Http.dll
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\roslyn\System.Net.Sockets.dll
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\roslyn\System.ValueTuple.dll
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\roslyn\System.Xml.XPath.dll
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\roslyn\vbc.exe
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\roslyn\vbc.exe.config
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\roslyn\vbc.rsp
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\roslyn\VBCSCompiler.exe
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\Antlr3.Runtime.dll
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\EntityFramework.dll
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\EntityFramework.SqlServer.dll
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\Newtonsoft.Json.dll
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\System.Web.Optimization.dll
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\WebGrease.dll
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\Antlr3.Runtime.pdb
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\EntityFramework.xml
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\EntityFramework.SqlServer.xml
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\Newtonsoft.Json.xml
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\System.Web.Optimization.xml
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\obj\Debug\WebMarket.csproj.AssemblyReference.cache
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\obj\Debug\WebMarket.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\obj\Debug\WebMarket.csproj.CopyComplete
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\obj\Debug\WebMarket.dll
+C:\Users\anton\OneDrive\Рабочий стол\webmarket\WebMarket\obj\Debug\WebMarket.pdb
