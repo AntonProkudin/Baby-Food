@@ -27,22 +27,41 @@
 ![image](https://github.com/AntonProkudin/Baby-Food/assets/80622273/6030b7d3-948c-4abb-9b5a-da2a77758805)
 
 Диаграмма пакетов:
+
 ![image](https://github.com/AntonProkudin/Baby-Food/assets/80622273/c4eaea68-6416-4888-8f73-54c870337652)
+
 Диаграмма классов:
+
 ![image](https://github.com/AntonProkudin/Baby-Food/assets/80622273/afc58237-b6be-4b46-b939-2c6aeaae67af)
+
 Диаграмма вариантов прецедентов:
+
 ![image](https://github.com/AntonProkudin/Baby-Food/assets/80622273/959c4c06-e242-44b2-b70b-3b48142edf3d)
+
 ER диаграмма проекта:
+
 ![image](https://github.com/AntonProkudin/Baby-Food/assets/80622273/7c96e255-4bf2-445d-b4c7-7d8db81a9f16)
+
 Структура модели проекта:
+
 ![image](https://github.com/AntonProkudin/Baby-Food/assets/80622273/aae05124-1606-45cb-800f-b353a7d50252)
+
 диаграммы описания бизнес-процессов в нотации IDEF0:
+
 ![image](https://github.com/AntonProkudin/Baby-Food/assets/80622273/0c34d871-7007-44c3-b129-d7c2b7db434c)
+
 ![image](https://github.com/AntonProkudin/Baby-Food/assets/80622273/cfb5fd11-2950-440b-a738-5bd0e55596c2)
+
 диаграммы описания бизнес-процессов в нотации DFD:
+
 ![image](https://github.com/AntonProkudin/Baby-Food/assets/80622273/0f5d0349-842f-499d-bf7d-23116a70459e)
+
 ![image](https://github.com/AntonProkudin/Baby-Food/assets/80622273/eb36af3c-50a0-43ec-81c0-d95671cad119)
+
 ![image](https://github.com/AntonProkudin/Baby-Food/assets/80622273/e2753b57-7699-4699-94ab-b179c9ebd5dc)
+
 диаграммs описания бизнес-процессов в нотации IDEF3
+
 ![image](https://github.com/AntonProkudin/Baby-Food/assets/80622273/e0f8c748-0531-47c6-a8f7-9e3825b9bf71)
+
 ![image](https://github.com/AntonProkudin/Baby-Food/assets/80622273/593555e1-1177-42a2-93cf-b5dae4fed33a)
